@@ -14,5 +14,7 @@ Exploratory Data Analysis on 7,500+ movies spanning 4 decades.
 - Scatter Plot & Regression Plot
 - Full Numerized Heatmap (all features including categorical)
 ## Charts
-![Regression Plot](regplot.png)
-![Correlation Heatmap](heatmap.png)
+
+![Regression Plot](Regression%20Plot.png)
+
+![Correlation Heatmap](Correlation%20Heatmap.png)
